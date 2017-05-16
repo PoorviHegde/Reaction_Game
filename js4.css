@@ -1,0 +1,15 @@
+	#red
+		{
+			height:200px;
+			width:200px;
+			background-color:#00FFFF;
+			display:none;
+			position:relative;
+			top:100px;
+			left:50px;
+		}
+	#tt{
+		font-size:25px;
+		position:relative;
+		left:42%;
+		}
